@@ -1,4 +1,5 @@
-# spatial_computing
+## **Spatial Computing**
+------------------------
 Welcome to an introduction to Spatial Computing in Python.
 
 All materials here accompany GGS366 Spatial Computing.

@@ -2,7 +2,7 @@
 ------------------------
 Welcome to an introduction to Spatial Computing in Python.
 
-All materials here accompany GGS366 Spatial Computing.
+All materials here accompany GGS590 Spatial Computing.
 
 Content will be posted weekly, prior to the class. Please do make an effort to 
 complete the weekly tasks, and undertake the 10-20 additional hours of learning 

@@ -16,9 +16,9 @@ to reach out to Ed Oughton (eoughton@gmu.edu).
 ### **Content**
 ------------------------
 
-https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/ggs366-2026/1_01_Intro_to_Spatial_Computing.ipynb
+https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_01_Intro_to_Spatial_Computing.ipynb
 
-https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/ggs366-2026/1_02_Getting_Started_With_Colab.ipynb 
+https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_02_Getting_Started_With_Colab.ipynb 
 
 https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_03_Intro_to_Python_Programming.ipynb
 

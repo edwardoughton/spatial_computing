@@ -24,4 +24,4 @@ to reach out to Ed Oughton (eoughton@gmu.edu).
 
 [https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_01_Functions.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_01_Functions.ipynb)
 
-[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_02_Data_Structures.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_02_Data_Structures.ipynb)
+[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/3_01_Data_Structures.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/3_01_Data_Structures.ipynb)

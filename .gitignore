@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 exercises/*
+# Deferred notebooks (keep local until ready to publish)
+/4_03_Intro_To_Pandas.ipynb
+/4_04_Intro_To_GeoPandas.ipynb

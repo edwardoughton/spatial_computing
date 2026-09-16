@@ -14,21 +14,22 @@ If you have any queries about the content (or anything else), do not hesitate
 to reach out to Ed Oughton (eoughton@gmu.edu).
 
 ### **Content**
-------------------------
 
-[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_01_Intro_to_Spatial_Computing.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_01_Intro_to_Spatial_Computing.ipynb)
+### **Week 1 — Getting started with spatial computing** 🌍 🐍
 
-[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_02_Getting_Started_With_Colab.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_02_Getting_Started_With_Colab.ipynb)
+1. [Intro to Spatial Computing](1_01_Intro_to_Spatial_Computing.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_01_Intro_to_Spatial_Computing.ipynb)
+2. [Getting Started with Colab](1_02_Getting_Started_With_Colab.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_02_Getting_Started_With_Colab.ipynb)
+3. [Intro to Python Programming](1_03_Intro_to_Python_Programming.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_03_Intro_to_Python_Programming.ipynb)
 
-[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_03_Intro_to_Python_Programming.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/1_03_Intro_to_Python_Programming.ipynb)
+### **Week 2 — Functions** 🛠️ 🐍
 
-[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_01_Functions.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_01_Functions.ipynb)
+1. [Functions](2_01_Functions.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/2_01_Functions.ipynb)
 
-[https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/3_01_Data_Structures.ipynb](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/3_01_Data_Structures.ipynb)
+### **Week 3 — Data structures** 🗂️ 🔢
 
-### **Week 4 — Loops, shapes and cheerful maps** 🔁 🗺️
+1. [Data Structures](3_01_Data_Structures.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/3_01_Data_Structures.ipynb)
+
+### **Week 4 — Loops and playful shapes** 🔁 📐
 
 1. [Iteration](4_01_Iteration.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/4_01_Iteration.ipynb)
 2. [Intro to Shapely](4_02_Intro_To_Shapely.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/4_02_Intro_To_Shapely.ipynb)
-3. [Intro to Pandas](4_03_Intro_To_Pandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/4_03_Intro_To_Pandas.ipynb)
-4. [Intro to GeoPandas](4_04_Intro_To_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/4_04_Intro_To_GeoPandas.ipynb)

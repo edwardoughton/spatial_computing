@@ -36,6 +36,7 @@ to reach out to Ed Oughton (eoughton@gmu.edu).
 ### **Week 5 — Shapely** 📐
 
 1. [Intro to Shapely](5_01_Intro_To_Shapely.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/5_01_Intro_To_Shapely.ipynb)
+
 ### **Week 6 — Pandas and GeoPandas** 🐼
 
 1. [Intro to Pandas](6_01_Intro_To_Pandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/6_01_Intro_To_Pandas.ipynb)

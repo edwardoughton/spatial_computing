@@ -159,7 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-exercises/*
-# Deferred notebooks (keep local until ready to publish)
-/4_03_Intro_To_Pandas.ipynb
-/4_04_Intro_To_GeoPandas.ipynb
+/tests/

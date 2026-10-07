@@ -41,3 +41,13 @@ to reach out to Ed Oughton (eoughton@gmu.edu).
 
 1. [Intro to Pandas](6_01_Intro_To_Pandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/6_01_Intro_To_Pandas.ipynb)
 2. [Intro to GeoPandas](6_02_Intro_To_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/6_02_Intro_To_GeoPandas.ipynb)
+
+
+### **Week 7 — Spatial processing with GeoPandas, Part 1**
+
+1. [Spatial Processing, Part 1](7_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/7_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb)
+
+
+### **Week 8 — Spatial processing with GeoPandas, Part 2**
+
+1. [Spatial Processing, Part 2](8_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/8_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb)

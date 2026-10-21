@@ -51,17 +51,3 @@ to reach out to Ed Oughton (eoughton@gmu.edu).
 ### **Week 8 — Spatial processing with GeoPandas, Part 2**
 
 1. [Spatial Processing, Part 2](08_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/08_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb)
-
-### Tests
-
-Test and answer-key filenames use the same prefix as their corresponding notebook. Each test has 20 multiple-choice questions worth one point each.
-
-| Notebook | Topic | Test | Answer key |
-| --- | --- | --- | --- |
-| 01_03 | Python basics | [Word](tests/01_03_GGS366_Lectures_2_3_Python_Quiz.docx) | ? |
-| 02_01 | Functions | [Word](tests/02_01_GGS366_Functions_Quiz.docx) | ? |
-| 03_01 | Data structures | [Word](tests/03_01_GGS366_Data_Structures_Quiz.docx) | [Word](tests/03_01_GGS366_Data_Structures_Answer_Key.docx) |
-| 04_01 | Iteration | [Word](tests/04_01_GGS366_Iteration_Quiz.docx) | [Word](tests/04_01_GGS366_Iteration_Answer_Key.docx) |
-| 05_01 | Shapely | [Word](tests/05_01_GGS366_Shapely_Quiz.docx) | [Word](tests/05_01_GGS366_Shapely_Answer_Key.docx) |
-| 06_01 | Pandas | [Word](tests/06_01_GGS366_Pandas_Quiz.docx) | [Word](tests/06_01_GGS366_Pandas_Answer_Key.docx) |
-| 06_02 | GeoPandas | [Word](tests/06_02_GGS366_GeoPandas_Quiz.docx) | [Word](tests/06_02_GGS366_GeoPandas_Answer_Key.docx) |

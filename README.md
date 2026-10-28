@@ -43,11 +43,12 @@ to reach out to Ed Oughton (eoughton@gmu.edu).
 2. [Intro to GeoPandas](06_02_Intro_To_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/06_02_Intro_To_GeoPandas.ipynb)
 
 
-### **Week 7 — Spatial processing with GeoPandas, Part 1**
+### **Week 7 — Pencil and paper test** ✏️
+
+No notebook this week.
+
+### **Week 8 — Spatial processing with GeoPandas** 🗺️ 🛠️
 
 1. [Spatial Processing, Part 1](08_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/08_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb)
-
-
-### **Week 8 — Spatial processing with GeoPandas, Part 2**
-
-1. [Spatial Processing, Part 2](08_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/08_01_Scripting_Spatial_Processing_via_GeoPandas.ipynb)
+2. [Spatial Processing, Part 2](08_02_Scripting_Spatial_Processing_via_GeoPandas.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/08_02_Scripting_Spatial_Processing_via_GeoPandas.ipynb)
+3. [Loading and Processing OpenStreetMap Data](08_03_Loading_and_Processing_OSM_Data.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/08_03_Loading_and_Processing_OSM_Data.ipynb)

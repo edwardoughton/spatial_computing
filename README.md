@@ -55,3 +55,11 @@ No notebook this week.
 ### **Week 9 — Downloading and analyzing data**
 
 1. [Downloading and Processing Building Data (Overture / OSM)](09_01_Scripting_Spatial_Processing_via_GeoPandas_Part2.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/09_01_Scripting_Spatial_Processing_via_GeoPandas_Part2.ipynb)
+
+### **Week 10 — Spatial processing with GeoPandas**
+
+1. [Spatial Processing, Part 3: Buildings near a Park](10_01_Scripting_Spatial_processing_via_GeoPandas_Part3.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/10_01_Scripting_Spatial_processing_via_GeoPandas_Part3.ipynb)
+
+### **Week 11 — Shortest-path routing**
+
+1. [Shortest-Path Routing](11_01_Shortest_Path_Routing.ipynb) — [Open in Colab](https://colab.research.google.com/github/edwardoughton/spatial_computing/blob/main/11_01_Shortest_Path_Routing.ipynb)
